@@ -1,18 +1,22 @@
 [
   {
     "name": "file.txt",
-    "tags": ["tag1", "tag2"]
+    "tags": ["tag1", "tag2"],
+    "physic": true
   },
   {
     "name": "file.txt",
-    "tags": ["tag3", "tag4"]
+    "tags": ["tag3", "tag4"],
+    "physic": true
   },
   {
     "name": "file.txt",
-    "tags": ["tag4", "tag5"]
+    "tags": ["tag4", "tag5"],
+    "physic": false
   },
   {
     "name": "file.txt",
-    "tags": ["tag1", "tag3"]
+    "tags": ["tag1", "tag3"],
+    "physic": false
   }
 ]

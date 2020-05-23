@@ -22,7 +22,11 @@ import data from "@/assets/files.json";
 import File from "@/components/File.vue";
 export default {
   name: "FilesList",
-  props: { search_query: { default: "" } },
+  props: {
+    search_query: { default: "" },
+    physic: { default: false },
+    chemistry: { default: false }
+  },
   components: { File },
   data() {
     return {
@@ -31,10 +35,20 @@ export default {
   },
   computed: {
     parsed_files() {
-      if (!this.search_query) return this.files;
+      if (!this.search_query && !this.physic && !this.chemistry)
+        return this.files;
       let reg = new RegExp(this.search_query);
       return this.files.filter(item => {
+        if (this.physic || this.chemistry) {
+          if (
+            (item.physic && !this.physic) ||
+            (!item.physic && !this.chemistry)
+          )
+            return false;
+        }
+
         if (item.name.match(reg) !== null) return true;
+
         let tag_found = false;
         item.tags.forEach(tag => {
           if (tag.match(reg)) tag_found = true;
