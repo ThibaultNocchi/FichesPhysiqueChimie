@@ -5,14 +5,14 @@
   },
   {
     "name": "file.txt",
-    "tags": ["tag1", "tag2"]
+    "tags": ["tag3", "tag4"]
   },
   {
     "name": "file.txt",
-    "tags": ["tag1", "tag2"]
+    "tags": ["tag4", "tag5"]
   },
   {
     "name": "file.txt",
-    "tags": ["tag1", "tag2"]
+    "tags": ["tag1", "tag3"]
   }
 ]
