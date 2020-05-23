@@ -18,5 +18,10 @@
     "name": "file.txt",
     "tags": ["tag1", "tag3"],
     "physic": false
+  },
+  {
+    "name": "file.txt",
+    "tags": ["tag5"],
+    "physic": false
   }
 ]

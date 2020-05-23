@@ -49,11 +49,22 @@ export default {
 
         if (item.name.match(reg) !== null) return true;
 
-        let tag_found = false;
-        item.tags.forEach(tag => {
-          if (tag.match(reg)) tag_found = true;
+        let searched_tags = this.search_query.split(" ");
+        let file_tags = item.tags;
+
+        let tags_found = true;
+
+        searched_tags.forEach(search_tag => {
+          let reg = RegExp(search_tag);
+          let res = file_tags.find(file_tag => {
+            return file_tag.match(reg) !== null;
+          });
+          if (res === undefined) {
+            tags_found = false;
+          }
         });
-        return tag_found;
+
+        return tags_found;
       });
     }
   }
