@@ -2,5 +2,17 @@
   {
     "name": "file.txt",
     "tags": ["tag1", "tag2"]
+  },
+  {
+    "name": "file.txt",
+    "tags": ["tag1", "tag2"]
+  },
+  {
+    "name": "file.txt",
+    "tags": ["tag1", "tag2"]
+  },
+  {
+    "name": "file.txt",
+    "tags": ["tag1", "tag2"]
   }
 ]

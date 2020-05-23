@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="container">
+  <div id="app" class="container mt-4">
     <FilesList></FilesList>
   </div>
 </template>
