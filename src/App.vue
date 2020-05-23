@@ -1,11 +1,14 @@
 <template>
-  <div id="app"></div>
+  <div id="app" class="container">
+    <FilesList></FilesList>
+  </div>
 </template>
 
 <script>
+import FilesList from "@/components/FilesList.vue";
 export default {
   name: "App",
-  components: {}
+  components: { FilesList }
 };
 </script>
 
