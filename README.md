@@ -1,24 +1,5 @@
-# agreg
+# Physics - Chemistry cards
 
-## Project setup
-```
-npm install
-```
+This website is a tool to index and search through some tagged files, with already filled physics and chemistry cards.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Favicon made by [Good Ware](https://www.flaticon.com/free-icon/microscope_2928236) from [Flaticon](https://www.flaticon.com/)
