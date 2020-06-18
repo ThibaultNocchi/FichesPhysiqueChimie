@@ -25,7 +25,7 @@ export default {
   name: "File",
   computed: {
     tags_joined() {
-      return this.file.tags.join(" ");
+      return this.file.tags.map(el => '"' + el + '"').join(" ");
     },
     subtitle() {
       return this.file.physic ? "Physique" : "Chimie";
