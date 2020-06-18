@@ -12,7 +12,7 @@
     </div>
 
     <div v-else>
-      Pas de fichier correspondant Ã  la recherche
+      Pas de fichier correspondant à la recherche
     </div>
   </div>
 </template>
@@ -37,7 +37,7 @@ export default {
     parsed_files() {
       if (!this.search_query && !this.physic && !this.chemistry)
         return this.files;
-      let reg = new RegExp(this.search_query);
+      let reg = new RegExp(this.search_query, "i");
       return this.files.filter(item => {
         if (this.physic || this.chemistry) {
           if (
@@ -55,7 +55,7 @@ export default {
         let tags_found = true;
 
         searched_tags.forEach(search_tag => {
-          let reg = RegExp(search_tag);
+          let reg = RegExp(search_tag, "i");
           let res = file_tags.find(file_tag => {
             return file_tag.match(reg) !== null;
           });
