@@ -2,17 +2,17 @@
   {
     "name": "LP 01- Contact entre deux solides, frottements.pdf",
     "tags": ["Plan incliné", "physique du solide", "Cerceau"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 02- Gravitation.pdf",
     "tags": ["intéraction gravitationnelle", "Champs de pesanteur"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 03- Caractère non galiléen du référentiel terrestre.pdf",
     "tags": ["PFD", "Effet de marée", "Corriolis"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 04- Précessions dans les domaines microscopiques et macroscopiques.pdf",
@@ -23,7 +23,7 @@
       "électromagnétisme",
       "quantique"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 05- Lois de conservation en dynamique.pdf",
@@ -33,17 +33,17 @@
       "énergie mécanique",
       "mécanique"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 06- Cinématique relativiste.pdf",
     "tags": ["relativité restrainte", "Lorentz"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 07 - Dynamique relativiste.pdf",
     "tags": ["Quadrivecteurs", "relativité"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 08- Notion de viscosité, écoulement visqueux.pdf",
@@ -54,7 +54,7 @@
       "fluides Newtoniens",
       "Reynolds"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 09- Modèle de l'écoulement parfait d'un fluide.pdf",
@@ -64,7 +64,7 @@
       "Euler",
       "couche limite"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 10- Phénomènes interfaciaux impliquant des fluides.pdf",
@@ -76,7 +76,7 @@
       "nombre de bond",
       "ascension capillaire"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 11- Gaz réels, gaz parfaits.pdf",
@@ -85,7 +85,7 @@
       "pression cinétique",
       "Equirépartition de l'énergie"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 13-Évolution et conditions d’équilibre d’un système thermodynamique fermé.pdf",
@@ -94,22 +94,22 @@
       "second principe",
       " potentiel thermodynamique"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 14- Machines thermiques réelles.pdf",
     "tags": ["thermiques", "Frigo", "diagramme du frigoriste"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 16- Facteur de Boltzmann.pdf",
     "tags": ["Quantique", "Système à deux niveaux", "atmosphère"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 17- Rayonnement d'équilibre thermique et corps noir.pdf",
     "tags": ["loi de planck", "effet de serre", "Wien", "Stéfan", "thermique"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 18- Phénomènes de transport.pdf",
@@ -120,27 +120,27 @@
       "diffusion",
       "résistance"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 19 -  Bilans thermiques ; Flux convectifs, conductifs et radiatifs.pdf",
     "tags": ["thermique", "absorbeur solaire"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 20- Conversion électro-mécanique de puissance.pdf ",
     "tags": ["circuit magnétique", "moteur synchrone"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 21- Induction électromagnétique.pdf",
     "tags": ["Newmann", "Lorentz", "Rails de Laplace", "Electromagnétisme"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 22 - Rétroaction et oscillations.pdf",
     "tags": ["électrocinétique", "système bouclé", "pont de Wien"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 23 - Traitement d’un signal.pdf",
@@ -152,17 +152,17 @@
       "diagramme de bode",
       "série de fourier"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 24 - Ondes progressives et ondes stationnaires.pdf",
     "tags": ["optique ondulatoire", "équation de d'Alembert", "câble coaxial"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 25 - Ondes acoustiques.pdf",
     "tags": ["équation de propagation", "OPPH", "approximation acoustique"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 26- Propagation avec dispersion.pdf",
@@ -174,7 +174,7 @@
       "relation de dispersion",
       "pulsation de coupure"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 27- Propagation guidée des ondes.pdf",
@@ -184,7 +184,7 @@
       "plans conducteurs",
       "guide d'onde rectangulaire"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 28- OEM dans les diélectriques.pdf",
@@ -195,7 +195,7 @@
       "OPPH",
       "nombre de bond"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 29- OEM dans les milieux conducteurs.pdf",
@@ -206,22 +206,22 @@
       "onde",
       "électromagnétisme"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 30- Rayonnement dipolaire électrique.pdf",
     "tags": ["électromagnétisme", "potentiel vecteur, scalaire", "champs"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 31- Présentation de l'optique géométrique à partir du principe de Fermat.pdf",
     "tags": ["Snell-descartes", "rayon lumineux", "chemin optique"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 32- Microscopies optiques.pdf",
     "tags": ["fluorescence", "oeil humain", "pouvoir de résolution"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 33- Interférences à deux ondes en optique.pdf",
@@ -232,12 +232,12 @@
       "front d'onde",
       "différence de marche"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 34- Interférométrie à division d’amplitude.pdf",
     "tags": ["Michelson", "optique", "front d'onde"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 35-Diffraction de Fraunhofer.pdf",
@@ -248,17 +248,17 @@
       "principe de Huygens-Fresnel",
       "critère de Rayleigh"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 36 - Diffraction par des structures périodiques.pdf",
     "tags": ["optique", "réseau plan", "Bragg", "spectrométrie"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 37- Absorption Emission.pdf",
     "tags": ["LASER", "intéraction lumière matière"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 38- Aspects corpusculaires du rayonnement. Notion de photon.pdf",
@@ -269,7 +269,7 @@
       "corps noir",
       "modèle de bohr"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 39- Aspects ondulatoire de la matière . Notion de fonction d'onde.pdf",
@@ -279,22 +279,22 @@
       "Quantique",
       "interprétation probabiliste de born"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 40- Confinement d'une particule et quantification de l'énergie.pdf",
     "tags": ["Quantique", "puit de potentiel"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 41- Effet tunnel Application.pdf",
     "tags": ["Quantique", "radioactivité", "microscope", "modèle de Gamov"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 42 - Fission, Fusion.pdf",
     "tags": ["énergie de stabilisation et stabilité", "nucléaire"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 43- Evolution temporelle d'un système quantique à deux niveaux.pdf",
@@ -306,22 +306,22 @@
       "formalisme ondulatoire",
       "états stationnaires"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 44 - Capacités thermiques _ description, interprétations microscopiques.pdf",
     "tags": ["gaz parfait", "solide"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 45- Paramagnétisme, ferromagnétisme, approximation en champ moyen.pdf",
     "tags": ["physique statistique", "aimantation", "quantique"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 46- Propriétés macroscopiques des corps ferromagnétiques.pdf",
     "tags": ["température de curie", "induction"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 47- Mécanismes de la conduction électrique dans les solides.pdf",
@@ -332,7 +332,7 @@
       "semi-conducteurs",
       "électromagnétisme"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 48- Phénomènes de résonance dans différents domaines de la physique.pdf",
@@ -344,12 +344,12 @@
       "monorésonant",
       "LASER"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 49- Oscillateurs ; portraits de phase et non-linéarités.pdf",
     "tags": ["électrocinétique", "non amorti", "hamoniques", "Van der Pol"],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LC 01- Séparation, purification et contrôle de pureté.pdf",
@@ -364,27 +364,27 @@
       "réfractomètre",
       "banc köfler"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 02 - Polymères.pdf",
     "tags": ["polycondensation", "polyaddition"],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 03 - Chimie Durable.pdf",
     "tags": ["chimie verte", "principe", "solvant", "environnement"],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 04 - Synthèse inorganique.pdf",
     "tags": ["Complexe", "Haber Bosch", "chimie verte"],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 05 - Stratégies et sélectivités en synthèse organique.pdf",
     "tags": ["catalyse", "protection, déprotection"],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 06 - Dosages.pdf",
@@ -395,7 +395,7 @@
       "conductimétrie",
       "pH-métrie"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 07- Cinétique et Catalyse.pdf",
@@ -405,12 +405,12 @@
       "facteurs",
       "homogène, hétérogène, enzymatique"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 08- Caractérisations par spectroscopie en synthèse organique.pdf",
     "tags": ["IR", "RMN", "UV-visible"],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 09 - Du macroscopique au microscopique dans les synthèses organiques.pdf",
@@ -423,7 +423,7 @@
       "mécanisme réactionnel",
       "sites donneurs et sites accepteurs"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 10- Capteurs électrochimiques.pdf",
@@ -433,7 +433,7 @@
       "Pile Daniell",
       "équation de Nersnt"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 11 - Molécules de la santé.pdf",
@@ -445,7 +445,7 @@
       "nylon",
       "esters"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 12 - Stéréochimie et molécules du vivant.pdf",
@@ -455,7 +455,7 @@
       "diastéréoisomère",
       "chimie organique"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 13- Acides Bases.pdf",
@@ -465,7 +465,7 @@
       "fort et faible",
       "diagramme de prédominance"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 14 - Liaisons Chimiques.pdf",
@@ -476,32 +476,32 @@
       "polarisation",
       "métallique"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 15- Solvants.pdf",
     "tags": ["Polarité", "proticité", "environnement", "dissolution"],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 16- Classification périodique.pdf",
     "tags": ["énergie de liaison", "rayon atomique", "électronégativité"],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 17- Solides cristallins.pdf",
     "tags": ["CFC", "criotallographie", "ionique", "métallique"],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 18- Corps pur et mélange binaires.pdf",
     "tags": ["changement d'état", "diagramme", "moment cinétique", "équilibre"],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 19- Application du premier principe de la thermodynamique à la réaction chimique.pdf",
     "tags": ["bilans enthalpiques", "grandeurs de réaction", "loi de Hess"],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 20- Détermination des constantes d’équilibres.pdf",
@@ -513,7 +513,7 @@
       "Décantation",
       "potentiométrie"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 21- Cinétique homogène.pdf",
@@ -523,7 +523,7 @@
       "facteurs",
       "énergie d'activation"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 22- Evolution et Equilibre Chimique.pdf",
@@ -533,12 +533,12 @@
       "constante d'équilibre",
       "quotient réactionnel"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 23- Diagrammes potentiel-pH.pdf",
     "tags": ["stabilité", "dismutation/médiamutation"],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 24 - Optimisation d’un procédé chimique.pdf",
@@ -549,7 +549,7 @@
       "catalyseur",
       "évolution"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 25 - Corrosion humide sur les métaux.pdf",
@@ -560,17 +560,17 @@
       "différentielle",
       "oxydoréduction"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 26- Conversion réciproque d’énergie électrique en énergie chimique.pdf",
     "tags": ["pile", "oxydoréduction", "accumulateurs", "électrolyse"],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 27- Solubilité.pdf",
     "tags": ["pH", "température", "précipitation"],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LC 28 - Cinétique électrochimique.pdf",
@@ -580,7 +580,7 @@
       "électrolyse",
       "vitesse, intensité"
     ],
-    "physic": false
+    "category": "Chimie"
   },
   {
     "name": "LP 12- Premier principe de la thermodynamique.pdf",
@@ -592,7 +592,7 @@
       "gaz parfait",
       "capacité thermique"
     ],
-    "physic": true
+    "category": "Physique"
   },
   {
     "name": "LP 15 - Transition de phases.pdf",
@@ -604,6 +604,6 @@
       "équilibre",
       "variance"
     ],
-    "physic": true
+    "category": "Physique"
   }
 ]
