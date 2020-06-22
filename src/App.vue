@@ -73,6 +73,10 @@ export default {
       ],
       links: [
         {
+          name: "Synthèse du NO2",
+          link: "https://youtu.be/-b4c2ogHvNY"
+        },
+        {
           name: "Exemples plans",
           link: "https://fiches-agreg-physique.fr/pdf/Fiches_agreg.pdf"
         },
